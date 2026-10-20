@@ -56,7 +56,7 @@ public class Main2 {
         player.setMovementStrategy(new Skateboarding());
         player.move();
 
-        
+
         System.out.println("\n--- Player found a secret item! ---");
         player.setMovementStrategy(new Jetpack());
         player.move();
