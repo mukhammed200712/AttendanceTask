@@ -40,7 +40,7 @@ class CartridgeAdapter implements DigitalGame {
 }
 
 
-public class Main3 {
+public class Main {
     public static void main(String[] args) {
         ModernConsole console = new ModernConsole();
 
